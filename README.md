@@ -2,11 +2,9 @@
 [![Zoom](https://img.shields.io/badge/ccny.zoom.us/j/86585770681-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://ccny.zoom.us/j/86585770681)
 [![Slack](https://img.shields.io/badge/eng110-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/eng110-workspace/shared_invite/zt-unitn4w7-0yMGdL8RS9AGoakGzs3Jwg)
 
-[Add to google calendar.](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/calendar/google/add)
-[Add to outlook calendar (.ics).](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/ics)
+[Add to Google calendar.](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/calendar/google/add) or [Add to outlook calendar (.ics).](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/ics)
 
-Yuanqing Wang, wangyq@wangyq.net
-
+Yuanqing Wang, wangyq@wangyq.net  
 Section E2, 22845
 
 Synchronous sessions (2021): Mondays and Wednesdays 2:00 - 3:15 pm EST/EDT
