@@ -22,8 +22,8 @@ In this class, we will explore the connections among _writing, reading, rhetoric
 We will practice writing for different purposes and audiences, and as a community, give, and receive feedbacks for each others' writing.
 
 ## Agenda
-| Project  | Description | Dates | 
 
+| Project  | Description | Dates | 
 | --- | --- | ---|
 | Written Language & Literacy Narrative | | |
 | Rhetorical Analysis Essay | | |
