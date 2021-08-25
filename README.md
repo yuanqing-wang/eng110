@@ -1,5 +1,8 @@
 ## Syllabus: ENG110 Freshman Composition
-https://ccny.zoom.us/j/86585770681     [add to your calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=MXZ1NzAxcXRkdGhoZ3RqNDNidDA1OWNvMDVfMjAyMTA4MzBUMTgwMDAwWiB5dWFucWluZy53YW5nQGNob2RlcmFsYWIub3Jn&tmsrc=yuanqing.wang%40choderalab.org&scp=ALL)
+https://ccny.zoom.us/j/86585770681
+
+[google calendar](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/calendar/google/add)
+[outlook calendar (.ics)](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/ics)
 
 Yuanqing Wang, wangyq@wangyq.net
 
