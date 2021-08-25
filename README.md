@@ -18,14 +18,12 @@ Contact me (wangyq@wangyq.net) if you want to chat (about anything).
 In this class, we will explore the connections among _writing, reading, rhetoric, and critical thinking_.
 We will practice writing for different purposes and audiences, and as a community, give, and receive feedbacks for each others' writing.
 
-## Agenda
+## Assignments
 
 | Project  | Description | Dates | 
 | :-------------: | :-------------: | ------------- |
-| Written Language & Literacy Narrative | | |
-| Rhetorical Analysis Essay | | |
-| Researched Essay | | |
-| Self-Assesment Essay | | |
+| Source-Based Essay | | |
+| Composition in Two Genres | | |
 
 ## Open Education Statement
 All notes of this class will be published in on this website under Creative Commons CC0 License.
