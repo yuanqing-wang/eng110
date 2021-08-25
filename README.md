@@ -25,6 +25,14 @@ We will practice writing for different purposes and audiences, and as a communit
 | Source-Based Essay | | |
 | Composition in Two Genres | | |
 
+## Agenda
+
+| Class | Items |
+| :-------------: | :-------------: |
+| W1D1 | - Icebreaker - Introduction of Key Terms |
+
+
+
 ## Open Education Statement
 All notes of this class will be published in on this website under Creative Commons CC0 License.
 Should you wish to improve the course materials, submit _issues_ or _pull requests_ to this GitHub repo.
