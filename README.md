@@ -28,6 +28,14 @@ We will practice writing for different purposes and audiences, and as a communit
 | Letter of Introduction and Portfolio | | | 
 
 ## Agenda
+
+| Day  | Contents | Readings | Assignments |
+| :-------------: | :-------------: | :-------------:  |:-------------: |
+| W1D1 | Icebreaker(30 min) <br> Course Overview(15 min) | | |
+
+
+
+
 - W1D1
     * Icebreaker (30 min)
     
