@@ -34,7 +34,7 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 
 | Day  | Contents | Recommended Readings | Assignments |
 | :-------------: | :-------------: | :-------------:  |:-------------: |
-| W1D1 | Icebreaker(30 min) <br> Course Overview(15 min) | [Barthelme, Donald. "The School"](https://electricliterature.com/the-school-donald-barthelme/) <br> [Barthelme, Donald. "The Glass Moutain"](http://jessamyn.com/barth/glassmountain.html) | |
+| [W1D1](https://youtu.be/5nVPwjpnb8Y) | Icebreaker(30 min) <br> Course Overview(15 min) | [Barthelme, Donald. "The School"](https://electricliterature.com/the-school-donald-barthelme/) <br> [Barthelme, Donald. "The Glass Moutain"](http://jessamyn.com/barth/glassmountain.html) | |
 | W2D1 | [Introduction to Key Items (15 min)](W2D1/key_items.md) <br> Group Discussion of Reading (30 min) | [“A Eureka Moment for the Subway?”](https://www.nytimes.com/2019/01/04/opinion/l-train-new-york-subway-cuomo.html)  <br> [Foucault, Michel. "What Is an Author"](https://www.open.edu/openlearn/ocw/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf)| |
 | W3D1 | Intro to Writing Assignment 1: A Source-Based Essay (30 min) <br> Intro to CCNY Academic Databases (45 min) | [Poe, Edgar Allan. "The Purloined Letter"](http://xroads.virginia.edu/~Hyper/POE/purloine.html)| |
 | W4D1 | Peer review rhtorical analysis (45 min) <br> Discussion---Similarities and differencies (30 min)| [Woolf, Virginia. "A Room of One's Own"](http://gutenberg.net.au/ebooks02/0200791h.html) | |
