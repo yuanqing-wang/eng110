@@ -20,10 +20,12 @@ We will practice writing for different purposes and audiences, and as a communit
 
 ## Assignments
 
-| Project  | Description | Dates | 
+| Project  | Description | Due Dates | 
 | :-------------: | :-------------: | ------------- |
 | Source-Based Essay | | |
 | Composition in Two Genres | | |
+| Presentations | | | 
+| Letter of Introduction and Portfolio | | | 
 
 ## Agenda
 
