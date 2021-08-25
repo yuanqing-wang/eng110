@@ -33,13 +33,13 @@ We will practice writing for different purposes and audiences, and as a communit
 | :-------------: | :-------------: | :-------------:  |:-------------: |
 | W1D1 | Icebreaker(30 min) <br> Course Overview(15 min) | | |
 | W2D1 | Introduction to Key Items (15 min) <br> Group Discussion of Reading (30 min) | [“A Eureka Moment for the Subway?”](https://www.nytimes.com/2019/01/04/opinion/l-train-new-york-subway-cuomo.html) | |
-| W3D1 | Intro to Writing Assignment 1: A Source-Based Essay (30 min) <br> Intro to CCNY Academic Databases (45 min) | | |
-| W4D1 | Peer review rhtorical analysis (45 min) <br> Discussion---Similarities and differencies (30 min)| | |
+| W3D1 | Intro to Writing Assignment 1: A Source-Based Essay (30 min) <br> Intro to CCNY Academic Databases (45 min) | ["The Purloined Letter"](http://xroads.virginia.edu/~Hyper/POE/purloine.html)| |
+| W4D1 | Peer review rhtorical analysis (45 min) <br> Discussion---Similarities and differencies (30 min)| [A Room of One's Own](http://gutenberg.net.au/ebooks02/0200791h.html) | |
+| W11D1 | Introduction to Essay 3: Composition in Two Genres | | [Michel Foucault, What Is an Author](https://www.open.edu/openlearn/ocw/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf) |
 | W5D1 | MLA Citation (30 min) | | |
 | W6D2 | Discussion: The Rhetorical Situation (45 min) <br> Introduction to Writing Assignment 2: An Inquiry-Based Research Essay (30 min) | | |
 | W7D1 | Examples of Research Essay Questions (30 min) <br> What makes a good research questions (30 min) | | |
-| W7D2 | iscussion of Genre and Design (45 min) | | |
-| W11D1 | Introduction to Essay 3: Composition in Two Genres | | |
+| W7D2 | Discussion of Genre and Design (45 min) | | |
 | W11D2 |  Brainstorm: Audience Strategy|
 
 
@@ -62,23 +62,14 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 ## First-Year Composition Mission Statement
 First-year composition courses at CCNY teach writing as a recursive and frequently collaborative process of invention, drafting, and revising. Writing is both personal and social, and students should learn how to write for different purposes and audiences. Since writing is a process of making meaning and communicating, FYC teachers respond mainly to the content of students’ writing as well as to recurring surface errors. Students should expect frequent written and oral responses on the content of their writing from their teachers and peers. Classes rely heavily on a workshop format. Instruction emphasizes the connection between writing, reading, and critical thinking; students should give thoughtful, reasoned responses to the readings. Both reading and writing are the subjects of class discussions and workshops, and students are expected to be active participants in the classroom community. Learning from each other will be a large part of the classroom experience.
 
-## Recommended Reading List for this Class. (You _don't_ have to read any one them.)
-### Short Stories
-- ["Borges and I" by Jorge Luis Borges](http://www.amherstlecture.org/perry2007/Borges%20and%20I.pdf)
-- ["The Purloined Letter" by Edgar Allan Poe](http://xroads.virginia.edu/~Hyper/POE/purloine.html)
-
-### Essays
-- [Henry James, The Art of Fiction](https://public.wsu.edu/~campbelld/amlit/artfiction.html)
-- [Virginia Woolf, A Room of One's Own](http://gutenberg.net.au/ebooks02/0200791h.html)
-- [Michel Foucault, What Is an Author](https://www.open.edu/openlearn/ocw/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf)
-
-### Books
+## Other Recommended Texts for this Class. (You _don't_ have to read any one them.)
 - [Stephen King, On Writing: A Memoir of the Craft](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816)
 - [Roberto Bolano, Between Parentheses](https://www.amazon.com/Between-Parentheses-Articles-Speeches-1998-2003/dp/0811218147)
 
 ## Where you can read for FREE ✨
 - [New Yorker Podcast](https://www.newyorker.com/podcast)
 - [Guttenberg](https://www.gutenberg.org)
+- [New York Public Library](https://www.nypl.org)
 
 ## Other Open Education Resources
 - https://www.wwnorton.com/college/english/write/fieldguide/index.asp 
