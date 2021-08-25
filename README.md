@@ -28,10 +28,45 @@ We will practice writing for different purposes and audiences, and as a communit
 | Letter of Introduction and Portfolio | | | 
 
 ## Agenda
+- W1D1
+    * Icebreaker (30 min)
+    
+- W2D1
+    * Introduction of Key Terms (15 min)
+    * Course Overview (30 min)
+    * Group Discussion of “A Eureka Moment for the Subway?” (30 min)
 
-| Class | Items |
-| :-------------: | :-------------: |
-| W1D1 | - Icebreaker - Introduction of Key Terms |
+- W2D2
+    * Rhetorical analysis (30 min)
+    * Brainstorming theme for the rest of the semester (45 min)
+
+- W3D1
+    * Introduction to Writing Assignmnet 1: A Source-Based Essay (30 min)
+    * Introduction to CCNY Academic Databases (45 min)
+
+- W4D1
+   * Peer review rhetorical analysis (45 min)
+   * Class discussion (30 min)
+
+- W5D1
+   * MLA Citation (30 min)
+
+- W6D2
+   * Discussion: The Rhetorical Situation (45 min)
+   * Introduction to Writing Assignment 2: An Inquiry-Based Research Essay (30 min)
+
+- W7D1
+   * Examples of Research Essay Questions (30 min)
+   * What makes a good research questions (30 min)
+
+- W7D2
+   * Discussion of Genre and Design
+
+- W11D1
+   * Introduction to Essay 3: Composition in Two Genres
+
+- W11D2
+   * Brainstorm: Audience Strategy
 
 
 
