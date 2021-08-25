@@ -4,7 +4,7 @@
 
 [Add to Google calendar.](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/calendar/google/add) or [Add to outlook calendar (.ics).](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/ics)
 
-Yuanqing Wang, wangyq@wangyq.net  
+Yuanqing Wang(wangyq@wangyq.net), Adjunct Assistant Professor, he/him/his
 Section E2, 22845  
 Synchronous sessions (2021): Mondays and Wednesdays 2:00 - 3:15 pm EST/EDT  
 Office hours:
