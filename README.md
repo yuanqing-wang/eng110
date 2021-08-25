@@ -45,6 +45,10 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 - [Stephen King, On Writing: A Memoir of the Craft](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816)
 - [Roberto Bolano, Between Parentheses](https://www.amazon.com/Between-Parentheses-Articles-Speeches-1998-2003/dp/0811218147)
 
+## Where you can read for FREE ✨
+- [New Yorker Podcast](https://www.newyorker.com/podcast)
+- [Guttenberg](https://www.gutenberg.org)
+
 ## Other Open Education Resources
 - https://www.wwnorton.com/college/english/write/fieldguide/index.asp 
 - https://courses.lumenlearning.com/englishcomp1v2xmaster/ 
