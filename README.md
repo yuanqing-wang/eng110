@@ -34,7 +34,7 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 
 | Day  | Contents | Recommended Readings | Assignments |
 | :-------------: | :-------------: | :-------------:  |:-------------: |
-| W1D1 | Icebreaker(30 min) <br> Course Overview(15 min) | | |
+| W1D1 | Icebreaker(30 min) <br> Course Overview(15 min) | ["The School"](https://electricliterature.com/the-school-donald-barthelme/) <br> ["The Glass Moutain"](http://jessamyn.com/barth/glassmountain.html) | |
 | W2D1 | Introduction to Key Items (15 min) <br> Group Discussion of Reading (30 min) | [“A Eureka Moment for the Subway?”](https://www.nytimes.com/2019/01/04/opinion/l-train-new-york-subway-cuomo.html) | |
 | W3D1 | Intro to Writing Assignment 1: A Source-Based Essay (30 min) <br> Intro to CCNY Academic Databases (45 min) | ["The Purloined Letter"](http://xroads.virginia.edu/~Hyper/POE/purloine.html)| |
 | W4D1 | Peer review rhtorical analysis (45 min) <br> Discussion---Similarities and differencies (30 min)| [A Room of One's Own](http://gutenberg.net.au/ebooks02/0200791h.html) | |
