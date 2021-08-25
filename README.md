@@ -19,6 +19,7 @@ We will practice writing for different purposes and audiences, and as a communit
 
 ## Agenda
 | Project  | Description | Dates | 
+| --- | --- | ---|
 | Written Language & Literacy Narrative | | |
 | Rhetorical Analysis Essay | | |
 | Researched Essay | | |
