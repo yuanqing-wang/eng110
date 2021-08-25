@@ -33,6 +33,7 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 ## Agenda
 
 Click on first column for recordings.
+All in our [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLAaBpBghgxJ1kG7QpU_DES9PW-2H-iDEI) playlist.
 Click on contents for links to notes.
 
 | Day  | Contents | Recommended Readings | Assignments | 
