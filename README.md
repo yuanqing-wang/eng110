@@ -5,9 +5,8 @@
 [Add to Google calendar.](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/calendar/google/add) or [Add to outlook calendar (.ics).](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/ics)
 
 Yuanqing Wang, wangyq@wangyq.net  
-Section E2, 22845
-
-Synchronous sessions (2021): Mondays and Wednesdays 2:00 - 3:15 pm EST/EDT
+Section E2, 22845  
+Synchronous sessions (2021): Mondays and Wednesdays 2:00 - 3:15 pm EST/EDT  
 Office hours:
 I will stay for another 10 minutes after each synchronous class. 
 Contact me (wangyq@wangyq.net) if you want to chat (about anything).
