@@ -1,5 +1,5 @@
 # Syllabus: ENG110 Freshman Composition
-https://ccny.zoom.us/j/86585770681
+[![Zoom](https://img.shields.io/badge/https://ccny.zoom.us/j/86585770681-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://ccny.zoom.us/j/86585770681)
 
 [Add to google calendar.](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/calendar/google/add)
 [Add to outlook calendar (.ics).](https://ccny.zoom.us/meeting/tZIof-yvqTssEtUJ4z8MgoWLRexBwgIcvIWX/ics)
