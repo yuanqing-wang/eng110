@@ -36,7 +36,7 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 
 ## Recommended Reading List for this Class. (You _don't_ have to read any one them.)
 ### Short Stories
-- ["Borges and I_" by Jorge Luis Borges](http://www.amherstlecture.org/perry2007/Borges%20and%20I.pdf)
+- ["Borges and I" by Jorge Luis Borges](http://www.amherstlecture.org/perry2007/Borges%20and%20I.pdf)
 - ["Omakase" by Weike Wang](https://www.newyorker.com/magazine/2018/06/18/omakase)
 - ["The School" by Donald Barthelme](https://electricliterature.com/the-school-donald-barthelme/)
 - ["The Purloined Letter" by Edgar Allan Poe](http://xroads.virginia.edu/~Hyper/POE/purloine.html)
