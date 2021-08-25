@@ -78,4 +78,4 @@ You will be graded based on the frequency and quality of attendance and submissi
 ## Plagiarism and Academic Integrity (just don't do it.)
 Plagiarism is copying and using other people’s words without proper acknowledgment or citation as it is indicated in the CUNY Policy on Academic Integrity. All writing submitted for this course is understood to be your original work. Plagiarism is unacceptable and has serious consequences that can include a failing grade. In cases where I detect academic dishonesty (the fraudulent submission of another’s work, in whole or part, as your own), you may be subject to a failing grade for the project or the course, and, in the worst case, to academic probation or expulsion. You are expected to read, understand, and adhere to CCNY’s Policy on Academic Integrity, which is available here: http://www1.ccny.cuny.edu/current/upload/Academic-Integrity-Policy.pdf .
 
-
+## [City College Policies and Resources](ccny_policy_resources.md)
