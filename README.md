@@ -31,13 +31,13 @@ We will practice writing for different purposes and audiences, and as a communit
 
 | Day  | Contents | Readings | Assignments |
 | :-------------: | :-------------: | :-------------:  |:-------------: |
-| W1D1 | Icebreaker(30 min) <br> Course Overview(15 min) | | |
+| W1D1 | 
+Icebreaker(30 min) <br> Course Overview(15 min) 
+| | |
+| W2D1 | 
+Introduction to Key Items (15 min) <br> Group Discussion of Reading (30 min) | “A Eureka Moment for the Subway?” | |
 
 
-
-
-- W1D1
-    * Icebreaker (30 min)
     
 - W2D1
     * Introduction of Key Terms (15 min)
