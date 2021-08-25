@@ -39,6 +39,11 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 - ["Borges and I" by Jorge Luis Borges](http://www.amherstlecture.org/perry2007/Borges%20and%20I.pdf)
 - ["The Purloined Letter" by Edgar Allan Poe](http://xroads.virginia.edu/~Hyper/POE/purloine.html)
 
+### Essays
+- [Henry James, The Art of Fiction](https://public.wsu.edu/~campbelld/amlit/artfiction.html)
+- [Virginia Woolf, A Room of One's Own](http://gutenberg.net.au/ebooks02/0200791h.html)
+- [Michel Foucault, What Is an Author](https://www.open.edu/openlearn/ocw/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf)
+
 ### Books
 - [Stephen King, On Writing: A Memoir of the Craft](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816)
 - [Roberto Bolano, Between Parentheses](https://www.amazon.com/Between-Parentheses-Articles-Speeches-1998-2003/dp/0811218147)
