@@ -33,6 +33,18 @@ Should you wish to improve the course materials, submit _issues_ or _pull reques
 This is a **ZERO Textbook Cost** course. 
 Links to all mateirals will be accesible on this GitHub repo and website.
 
+
+## Recommended Reading List for this Class. (You _don't_ have to read any one them.)
+### Short Stories
+- ["Borges and I_" by Jorge Luis Borges](http://www.amherstlecture.org/perry2007/Borges%20and%20I.pdf)
+- ["Omakase" by Weike Wang](https://www.newyorker.com/magazine/2018/06/18/omakase)
+- ["The School" by Donald Barthelme](https://electricliterature.com/the-school-donald-barthelme/)
+- ["The Purloined Letter" by Edgar Allan Poe](http://xroads.virginia.edu/~Hyper/POE/purloine.html)
+
+### Books
+- [Stephen King, On Writing: A Memoir of the Craft](https://www.amazon.com/Writing-10th-Anniversary-Memoir-Craft/dp/1439156816)
+- [Roberto Bolano, Between Parentheses](https://www.amazon.com/Between-Parentheses-Articles-Speeches-1998-2003/dp/0811218147)
+
 ## Other Open Education Resources
 - https://www.wwnorton.com/college/english/write/fieldguide/index.asp 
 - https://courses.lumenlearning.com/englishcomp1v2xmaster/ 
