@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # [Rhetorical Situation](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/index.html)
 ------
 # [Author and Audience](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/author_and_audience.html)
