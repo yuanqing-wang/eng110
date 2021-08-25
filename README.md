@@ -15,6 +15,12 @@ Contact me (wangyq@wangyq.net) if you want to chat (about anything).
 In this class, we will explore the connections among _writing, reading, rhetoric, and critical thinking_.
 We will practice writing for different purposes and audiences, and as a community, give, and receive feedbacks for each others' writing.
 
+## Open Education Statement
+All notes of this class will be published in on this website under Creative Commons CC0 License.
+Should you wish to improve the course materials, submit _issues_ or _pull requests_ to this GitHub repo.
+This is a **ZERO Textbook Cost** course. 
+Links to all mateirals will be accesible on this GitHub repo and website.
+
 ## Assignments
 
 | Project  | Description | Due Dates | 
@@ -38,13 +44,6 @@ We will practice writing for different purposes and audiences, and as a communit
 | W7D1 | Examples of Research Essay Questions (30 min) <br> What makes a good research questions (30 min) | | |
 | W7D2 | Discussion of Genre and Design (45 min) | | |
 | W11D2 |  Brainstorm: Audience Strategy|
-
-
-## Open Education Statement
-All notes of this class will be published in on this website under Creative Commons CC0 License.
-Should you wish to improve the course materials, submit _issues_ or _pull requests_ to this GitHub repo.
-This is a **ZERO Textbook Cost** course. 
-Links to all mateirals will be accesible on this GitHub repo and website.
 
 ## Course Learning Outcomes 
 - Explore and analyze, in writing and reading, a variety of genres and rhetorical situations.
