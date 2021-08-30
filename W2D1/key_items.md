@@ -20,6 +20,8 @@ one who
 - communicates
 - create medium to communicate
 
+Check out: [Barthes, Roland. "The Death of the Author"](https://writing.upenn.edu/~taransky/Barthes.pdf)
+
 ## Audience
 ### Definition
 one who
