@@ -5,7 +5,12 @@ layout: post
 # [Rhetorical Situation](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/index.html)
 ## What is of _rhetoric_
 Rhetoric = any communication used to modify the perspectives of others.  
-Aristotle: rhetoric is “an ability, in each particular case, to see the available means of persuasion” (Aristotle Rhetoric I.1.2, Kennedy 37)    
+Aristotle: rhetoric is “an ability, in each particular case, to see the available means of persuasion” (Aristotle Rhetoric I.1.2, Kennedy 37) 
+![rhetorical axis](axis_of_rhetoric.jpg)
+
+## What is _rhetorical situation_
+The circumstances in which you communicate to persuade others.
+![venn rhetorical situaion](venn_rhetorical_situation.png)
 
 ------
 # [Author and Audience](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/author_and_audience.html)
