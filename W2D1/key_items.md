@@ -26,6 +26,9 @@ one who
 - receives communication
 - consumes communicative media
 
+## Intended readers
+Who do you write for? Who do you have in mind when you write it?
+
 ## Background of author and audience
 - Elements including 
     * age
@@ -71,4 +74,7 @@ Examples:
     * Essays
 
 Medium definition: the way in which a piece of writing is delivered.  
+- How would your reader read it: online or physical?
+- If online: where would they read it?
+- If physical: in which form would they read it in?
 
