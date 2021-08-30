@@ -1,6 +1,5 @@
 ---
 layout: post
-author: Yuanqing Wang
 ---
 
 # [Rhetorical Situation](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/index.html)
