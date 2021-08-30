@@ -52,6 +52,23 @@ one who
 
 ------
 # [Genre and Medium](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/business_writing_for_administrative_and_clerical_staff/genre_and_medium.html)
-Genre definition: form of your writing.  
+Genre definition: form of your writing.    
+Examples:
+- Literary
+    * Fiction
+        * Short stories
+        * Novels
+        * Plays
+    * Non-fiction
+       * Memoir
+       * Journalism
+- Business
+    * Memos
+    * Letters
+    * Social media posts
+- Academic
+    * Research papers
+    * Essays
+
 Medium definition: the way in which a piece of writing is delivered.  
 
