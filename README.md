@@ -40,13 +40,13 @@ Click on contents for links to notes.
 | :-------------: | :-------------: | :-------------:  |:-------------: |
 | [W1D1](https://youtu.be/5nVPwjpnb8Y) | Icebreaker(30 min) <br> Course Overview(15 min) | [Barthelme, Donald. "The School"](https://electricliterature.com/the-school-donald-barthelme/) | |
 | W2D1 | [Introduction to Key Items (15 min)](W2D1/key_items.md) <br> [Cliched Way to Tell a Story (10 min)](W2D1/cliched_way_to_tell_a_story.md) <br> Group Discussion of Readings (30 min) | [Barthelme, Donald. "The Glass Moutain"](http://jessamyn.com/barth/glassmountain.html) <br><br> [Freud, Sigmund. "Sex in Dreams"](https://www.bartleby.com/288/5.html) <br><br> [Barthes, Roland. "The Death of the Author"](https://writing.upenn.edu/~taransky/Barthes.pdf) <br><br> [“A Eureka Moment for the Subway?”](https://www.nytimes.com/2019/01/04/opinion/l-train-new-york-subway-cuomo.html)  <br><br> [Foucault, Michel. "What Is an Author"](https://www.open.edu/openlearn/ocw/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf)| Write a few paragraph about the first thing you remember.|
-| W3D1 | Intro to Writing Assignment 1: A Source-Based Essay (30 min) <br> Intro to CCNY Academic Databases (45 min) | [Poe, Edgar Allan. "The Purloined Letter"](http://xroads.virginia.edu/~Hyper/POE/purloine.html)| |
+| W3D1 | Intro to Writing Assignment 1: A Source-Based Essay (30 min) <br> Intro to CCNY Academic Databases (45 min) | [Poe, Edgar Allan. "The Purloined Letter"](http://xroads.virginia.edu/~Hyper/POE/purloine.html) <br><br> [Struck, William and E.B. White _The Elements of Style_](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)| |
 | W4D1 | Peer review rhtorical analysis (45 min) <br> Discussion---Similarities and differencies (30 min)| [Woolf, Virginia. "A Room of One's Own"](http://gutenberg.net.au/ebooks02/0200791h.html) | |
-| W11D1 | Introduction to Essay 3: Composition in Two Genres |  | |
 | W5D1 | MLA Citation (30 min) | | |
 | W6D2 | Discussion: The Rhetorical Situation (45 min) <br> Introduction to Writing Assignment 2: An Inquiry-Based Research Essay (30 min) | | |
 | W7D1 | Examples of Research Essay Questions (30 min) <br> What makes a good research questions (30 min) | | |
 | W7D2 | Discussion of Genre and Design (45 min) | | |
+| W11D1 | Introduction to Essay 3: Composition in Two Genres |  | |
 | W11D2 |  Brainstorm: Audience Strategy|
 
 ## Course Learning Outcomes 
