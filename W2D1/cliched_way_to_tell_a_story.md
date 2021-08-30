@@ -8,3 +8,6 @@
 - The Process
 - The Turning Point
 - The Result
+
+
+![](curve.png)
