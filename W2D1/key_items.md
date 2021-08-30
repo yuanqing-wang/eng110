@@ -20,7 +20,8 @@ one who
 - communicates
 - create medium to communicate
 
-Check out: [Barthes, Roland. "The Death of the Author"](https://writing.upenn.edu/~taransky/Barthes.pdf)
+Check out: [Barthes, Roland. "The Death of the Author"](https://writing.upenn.edu/~taransky/Barthes.pdf)  
+[Foucault, Michel. "What Is an Author"](https://www.open.edu/openlearn/ocw/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf)
 
 ## Audience
 ### Definition
