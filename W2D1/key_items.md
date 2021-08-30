@@ -2,19 +2,21 @@
 layout: post
 ---
 
-# [Rhetorical Situation](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/index.html)
-## What is _rhetoric_
+# Key Items
+
+## [Rhetorical Situation](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/index.html)
+### What is _rhetoric_
 Rhetoric = any communication used to modify the perspectives of others.  
 Aristotle: rhetoric is “an ability, in each particular case, to see the available means of persuasion” (Aristotle Rhetoric I.1.2, Kennedy 37) 
 ![rhetorical axis](axis_of_rhetoric.jpg)
 
-## What is _rhetorical situation_
+### What is _rhetorical situation_
 The circumstances in which you communicate to persuade others.
 ![venn rhetorical situaion](rhetorical_venn_situation.png)
 
 ------
-# [Author and Audience](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/author_and_audience.html)
-## Author
+## [Author and Audience](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/author_and_audience.html)
+### Author
 ### Definition:
 one who 
 - communicates
@@ -23,16 +25,16 @@ one who
 Check out: [Barthes, Roland. "The Death of the Author"](https://writing.upenn.edu/~taransky/Barthes.pdf)  
 [Foucault, Michel. "What Is an Author"](https://www.open.edu/openlearn/ocw/pluginfile.php/624849/mod_resource/content/1/a840_1_michel_foucault.pdf)
 
-## Audience
-### Definition
+### Audience
+#### Definition
 one who
 - receives communication
 - consumes communicative media
 
-## Intended readers
+### Intended readers
 Who do you write for? Who do you have in mind when you write it?
 
-## Background of author and audience
+### Background of author and audience
 - Elements including 
     * age
     * gender
@@ -57,7 +59,7 @@ Who do you write for? Who do you have in mind when you write it?
         * Understanding of the media
 
 ------
-# [Genre and Medium](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/business_writing_for_administrative_and_clerical_staff/genre_and_medium.html)
+## [Genre and Medium](https://owl.purdue.edu/owl/subject_specific_writing/professional_technical_writing/business_writing_for_administrative_and_clerical_staff/genre_and_medium.html)
 Genre definition: form of your writing.    
 Examples:
 - Literary
