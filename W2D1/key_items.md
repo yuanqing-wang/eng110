@@ -10,7 +10,7 @@ Aristotle: rhetoric is “an ability, in each particular case, to see the availa
 
 ## What is _rhetorical situation_
 The circumstances in which you communicate to persuade others.
-![venn rhetorical situaion](venn_rhetorical_situation.png)
+![venn rhetorical situaion](venn_rhetorical_situation.jpg)
 
 ------
 # [Author and Audience](https://owl.purdue.edu/owl/general_writing/academic_writing/rhetorical_situation/author_and_audience.html)
