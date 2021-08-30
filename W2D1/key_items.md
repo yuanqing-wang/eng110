@@ -83,3 +83,7 @@ Medium definition: the way in which a piece of writing is delivered.
 - If online: where would they read it?
 - If physical: in which form would they read it in?
 
+
+## [Tone and Purpose](https://owl.purdue.edu/owl/english_as_a_second_language/esl_students/audience_considerations_for_esl_writers/tone_and_purpose.html)
+## [Stance and Language](https://owl.purdue.edu/owl/english_as_a_second_language/esl_students/audience_considerations_for_esl_writers/stance_and_language.html)
+
