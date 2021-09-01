@@ -8,4 +8,8 @@
 
 ## Rhetorical Triangle
 
-[](rhetoric_triangle.png)
+![](rhetoric_triangle.png)
+
+- Ethos: The authority or credibility of the author.
+- Pathos: Emotional appeals to the audience.
+- Logos: Logic and truth.
