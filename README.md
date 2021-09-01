@@ -35,7 +35,7 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 
 Or click on first column for recordings on YouTube.
 Click on contents for links to notes.  
-Boldfaced are primary readings / materials to be discussed in the class.
+Boldfaced are primary readings / materials to be discussed in class.
 
 | Day  | Contents | Recommended Readings | Assignments | 
 | :-------------: | :-------------: | :-------------:  |:-------------: |
