@@ -21,7 +21,7 @@ Should you wish to improve the course materials, submit _issues_ or _pull reques
 This is a **ZERO Textbook Cost** course. 
 Links to all mateirals will be accesible on this GitHub repo and website.
 
-## Assignments
+## Milestones
 
 | Project  | Description | Due Dates | 
 | :-------------: | :-------------: | ------------- |
