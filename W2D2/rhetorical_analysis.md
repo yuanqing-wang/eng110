@@ -2,8 +2,8 @@
 
 ## Cliched Way to Do Rhetorical Analysis
 
-- Description
-- Analysis
-- Evaluation
+- Description: What did it say?
+- Analysis: Use the framework you've learned.
+- Evaluation: Is it effective? To whom?
 
 ## Rhetorical Triangle
