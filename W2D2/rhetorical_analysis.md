@@ -7,3 +7,4 @@
 - Evaluation: Is it effective? To whom?
 
 ## Rhetorical Triangle
+[](rhetoric_triangle.png)
