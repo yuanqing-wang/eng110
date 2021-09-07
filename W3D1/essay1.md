@@ -29,4 +29,4 @@ Length: 6-7 pages, including citations (1,500-1,750 words)
 Submission: Through Blackboard (we’ll go through the process in class)
 
 ## Timeline
-- [] W4D1: Ready for peer-review
+- [ ] W4D1: Ready for peer-review
