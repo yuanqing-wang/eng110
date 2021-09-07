@@ -1,3 +1,8 @@
+---
+layout: post
+title: Cliched Way to Tell a Story
+---
+
 # Three-act structure
 - The Setup
 - The Confrontation
