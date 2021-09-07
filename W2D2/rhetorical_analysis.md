@@ -1,4 +1,7 @@
-# Rhetorical Analysis
+---
+layout: post
+title: Rhetorical Analysis
+---
 
 ## Rhetorical Triangle
 
