@@ -4,7 +4,7 @@ title: **Essay \#1**: A Source-Based Essay
 ---
 Source-Based Essay on Rhetorical Situation: Author, Audience, Tone, Purpose, Genre, Medium, and Stance
 
-[Assignment Resources](https://github.com/yuanqing-wang/eng110/blob/main/W2D1/key_items.md)
+[Assignment Resources](../W2D1/key_items.md)
 
 ## Goals for this Assignment
 With this assignment, we want you (our audience) to get some practice with the rhetorical terms that we list above (our purpose). We will use these rhetorical terms throughout the semester; they form the basis of the course. Throughout the course, we want to develop your understanding of how rhetoric and writing function in social contexts. You’ll be able to use what you learn about rhetoric in this course and apply it in any other course that requires writing. We also want to familiarize you with CCNY’s academic databases. You already know how to search for material on the open web; a better understanding of how to make use of academic databases will expand the range of materials to which you have access. (Notice our tone and language here: professional, but not too academic. Accessible, but not casual.)
