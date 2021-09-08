@@ -30,14 +30,18 @@ Submission: Through Blackboard (we’ll go through the process in class)
 
 ## Example Articles
 - Political
+    * [Remarks by President Biden on the Drawdown of U.S. Forces in Afghanistan](https://www.whitehouse.gov/briefing-room/speeches-remarks/2021/07/08/remarks-by-president-biden-on-the-drawdown-of-u-s-forces-in-afghanistan/)
     * Tweets of [the Foreign Ministry Spokesperson of China](https://twitter.com/SpokespersonCHN)
     * Statements from [Donald J. Trump](https://www.donaldjtrump.com/news)
-
-- Social
     * [Safe Travels and Operation Respect Keeping our customers and employees safe during COVID-19](https://new.mta.info/safetravels)
 
 - Religious
     * [Gensis KJV](https://www.biblegateway.com/passage/?search=Genesis%201&version=KJV)
+    * [The Heart Sutra](http://webspace.ship.edu/cgboer/heartsutra.html)
+
+- Op-Ed
+    * [The Children of Pornhub](https://www.nytimes.com/2020/12/04/opinion/sunday/pornhub-rape-trafficking.html)
+    * [Texas’ Long History of Hollowing Out Women’s Health Care](https://www.nytimes.com/2021/09/07/opinion/texas-abortion-law-supreme-court.html)
 
 ## Timeline
 - [ ] W4D1: Ready for peer-review
