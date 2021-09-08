@@ -44,7 +44,7 @@ Submission: Through Blackboard (we’ll go through the process in class)
     * [Texas’ Long History of Hollowing Out Women’s Health Care](https://www.nytimes.com/2021/09/07/opinion/texas-abortion-law-supreme-court.html)
 
 ## Examples of Rhetorical Analysis (CCNY only)
-- [Sadia](https://smenglishcomp.commons.gc.cuny.edu/inquiry-research-on-impact-of-immigrants/)
+- **[Sadia]**(https://smenglishcomp.commons.gc.cuny.edu/inquiry-research-on-impact-of-immigrants/)
 - [Rifat](https://betterwriting.commons.gc.cuny.edu/1-zero-to-good-learning/)
 - [Anonymous](https://socialissues.commons.gc.cuny.edu/ending-the-stigma-on-mental-illness/)
 
