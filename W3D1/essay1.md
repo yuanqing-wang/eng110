@@ -17,7 +17,7 @@ For each article you choose, you will provide a brief summary, describe its auth
 Finally, you’ll make connections between the various articles that you analyze. In what ways are your various sources similar or different?
 
 ## Format
-In this essay, you’re describing a series of articles. Instead of making an argument, as school essays often do, you’re exploring your sources from a rhetorical perspective. The essay should include:
+In this essay, you’re describing a piece of writing (articles, social media postings, commercials, political campaigns, etc.). Instead of making an argument, as school essays often do, you’re exploring your sources from a rhetorical perspective. The essay should include:
 
 A general introduction, that tells the reader what your subject is
 Rhetorical analyses of four sources
@@ -27,6 +27,17 @@ With the exception of the general introduction, your essay doesn’t have to be 
 Length: 6-7 pages, including citations (1,500-1,750 words)
 
 Submission: Through Blackboard (we’ll go through the process in class)
+
+## Example Articles
+- Political
+    * Tweets of [the Foreign Ministry Spokesperson of China](https://twitter.com/SpokespersonCHN)
+    * Statements from [Donald J. Trump](https://www.donaldjtrump.com/news)
+
+- Social
+    * [Safe Travels and Operation Respect Keeping our customers and employees safe during COVID-19](https://new.mta.info/safetravels)
+
+- Religious
+    * [Gensis KJV](https://www.biblegateway.com/passage/?search=Genesis%201&version=KJV)
 
 ## Timeline
 - [ ] W4D1: Ready for peer-review
