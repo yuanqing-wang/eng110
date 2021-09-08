@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Essay \#1**: A Source-Based Essay
+title: Essay 1: A Source-Based Essay
 ---
 Source-Based Essay on Rhetorical Situation: Author, Audience, Tone, Purpose, Genre, Medium, and Stance
 
