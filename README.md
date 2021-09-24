@@ -23,12 +23,12 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 
 ## Milestones
 
-| Project  | Due Dates | 
-| :-------------: | :-------------: | 
-| [Source-Based Essay](W3D1/essay1.md) | Sep 27 Mon| 
-| Composition in Two Genres | | 
-| Presentations | | 
-| Letter of Introduction and Portfolio | |
+| Project  | Due Dates | Points |
+| :-------------: | :-------------: |  :-------------: | 
+| [Source-Based Essay](W3D1/essay1.md) | Sep 27 Mon| 15 |
+| Composition in Two Genres | |  |
+| Presentations | | |
+| Letter of Introduction and Portfolio | | |
 
 ## Agenda
 [![YouTube](https://img.shields.io/badge/YouTube_Playlist-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLAaBpBghgxJ1kG7QpU_DES9PW-2H-iDEI)
