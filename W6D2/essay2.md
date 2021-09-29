@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essay #2: An Inquiry-Based Research Essay on the Subject of Your Choice 
+title: Essay 2: An Inquiry-Based Research Essay on the Subject of Your Choice 
 ---
 
 ## Assignment Description
