@@ -19,10 +19,10 @@ Throughout the research process, you will write several short assignments in var
 
 Have I
 
--[] included at least one scholarly and three popular sources in my essay?
--[] modeled my essay on an existing publication, adopting its genre conventions for my own essay?
--[] completed the preliminary reflection, the research proposal, the report on research in process, and the final reflection?
--[] applied citation style conventions in both in-text and end of text references?
+-[ ] included at least one scholarly and three popular sources in my essay?
+-[ ] modeled my essay on an existing publication, adopting its genre conventions for my own essay?
+-[ ] completed the preliminary reflection, the research proposal, the report on research in process, and the final reflection?
+-[ ] applied citation style conventions in both in-text and end of text references?
 
 ## Genres
 ### Writing Genre #1: Research Topic Reflection
