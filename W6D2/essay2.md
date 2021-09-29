@@ -19,10 +19,10 @@ Throughout the research process, you will write several short assignments in var
 
 Have I
 
--[ ] included at least one scholarly and three popular sources in my essay?
--[ ] modeled my essay on an existing publication, adopting its genre conventions for my own essay?
--[ ] completed the preliminary reflection, the research proposal, the report on research in process, and the final reflection?
--[ ] applied citation style conventions in both in-text and end of text references?
+- [ ] included at least one scholarly and three popular sources in my essay?
+- [ ] modeled my essay on an existing publication, adopting its genre conventions for my own essay?
+- [ ] completed the preliminary reflection, the research proposal, the report on research in process, and the final reflection?
+- [ ] applied citation style conventions in both in-text and end of text references?
 
 ## Genres
 ### Writing Genre #1: Research Topic Reflection
@@ -56,3 +56,9 @@ Your purpose in this assignment is to reflect on your most recent essay to demon
 Before you begin your essay, write a brief paragraph in which you identify your audience and the impact your audience has on your genre, language, and tone. Some possible audiences include next year’s entering students, a human resources department at an agency that hires communication specialists in your field, or the US Secretary of Education.
 
 Address the various aspects of writing that we have practiced–generating thoughts, peer review (both in and out of class), research (finding sources and generating your own material through interviews and observations), synthesis (making connections between your ideas and the ideas in your research sources), your drafting process, and anything else that seems important to you.
+
+## Timeline
+- [ ] W7D1: Research Proposal: Post in Slack channel #assignment
+- [ ] W8D2: First Draft: Google doc
+- [ ] W9D1: Peer review
+- [ ] W11D1: Final Deadline
