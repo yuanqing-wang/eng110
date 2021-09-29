@@ -25,8 +25,8 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 
 | Project  | Due Dates | Points |
 | :-------------: | :-------------: |  :-------------: | 
-| [Source-Based Essay](W3D1/essay1.md) | - [ ] W4D1: Peer Review - [ ] W5D1: Final Draft| 15 |
-| Inquiry-Based Research Essay | |  |
+| [Source-Based Essay](W3D1/essay1.md) | W4D1: Peer Review; W5D1: Final Draft| 15 |
+| [Inquiry-Based Research Essay](W6D2/essay2.md) | W7D1: Proposal; W8D2: First Draft; W9D1: Peer Review; W11D1: Final Draft| 30 |
 | Composition in Two Genres | |  |
 | Presentations | | |
 | Letter of Introduction and Portfolio | | |
