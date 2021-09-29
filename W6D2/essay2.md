@@ -57,6 +57,11 @@ Before you begin your essay, write a brief paragraph in which you identify your 
 
 Address the various aspects of writing that we have practiced–generating thoughts, peer review (both in and out of class), research (finding sources and generating your own material through interviews and observations), synthesis (making connections between your ideas and the ideas in your research sources), your drafting process, and anything else that seems important to you.
 
+## Model Essays Example
+- https://www.rand.org/blog/rand-review/2018/07/more-research-could-help-prevent-gun-violence-in-america.html
+
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2784629/
+
 ## Timeline
 - [ ] W7D1: Research Proposal: Post in Slack channel #assignment
 - [ ] W8D2: First Draft: Google doc
