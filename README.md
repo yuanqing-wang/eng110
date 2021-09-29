@@ -25,7 +25,7 @@ Links to all mateirals will be accesible on this GitHub repo and website.
 
 | Project  | Due Dates | Points |
 | :-------------: | :-------------: |  :-------------: | 
-| [Source-Based Essay](W3D1/essay1.md) | Sep 27 Mon| 15 |
+| [Source-Based Essay](W3D1/essay1.md) | - [ ] W4D1: Peer Review - [ ] W5D1: Final Draft| 15 |
 | Inquiry-Based Research Essay | |  |
 | Composition in Two Genres | |  |
 | Presentations | | |
