@@ -46,6 +46,7 @@ The proposal should identify the specific, final research question that you dete
 - From a macroscopic point of view, how would my research make the world a better/worse place?
 
 ### Bibliography
+Identify key references. It might not need to be as thorough as that of your final paper.
 
 ## Some tips
 - Consider start with (nested) bullet points and build on top of it.
