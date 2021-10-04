@@ -28,7 +28,7 @@ If you can derive a feasibily testable, falsifiable hypothesis from your researc
 
 ### Impact
 - Will the results be interesting to you and to others?
-- Does it concern a real and debatable issue?\
+- Does it concern a real and debatable issue?
 
 
 
