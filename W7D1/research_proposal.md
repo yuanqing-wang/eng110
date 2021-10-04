@@ -27,6 +27,10 @@ The proposal should identify the specific, final research question that you dete
 - Give recognition to other scholars in this field.
 - What has been studied? What is left to study?
 
+### Objectives & Goals & Significance
+- Microscopically: What will be done?
+- Marcoscopically: What influence will this research make?
+
 ### Methodology / Theoretical Framework
 - Describe in detail your research design, methods, procedures, and tools.
 - Describe your theoretical approach
