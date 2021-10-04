@@ -11,5 +11,6 @@ title: Are these good research questions? Why?
 5. What kind of coffee did Shakespeare drink when he woke up every morning?
 6. How do we solve coffee breath?
 7. How many cups of espresso a day are most beneficial to human bodies?
-8. How many cups of espresso a day would maximize one's blood oxgyen?
-9. How many cups of espresso a day would maximally extend one's life expectancy?
+8. Does caffeine increase one's blood oxygen?
+9. How many cups of espresso a day would maximize one's blood oxgyen?
+10. How many cups of espresso a day would maximally extend one's life expectancy?
