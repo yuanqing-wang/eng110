@@ -4,7 +4,7 @@ title: What defines a good research question?
 ---
 
 ## Research question and hypothesis driven-test
-If you can derive a feasibily testable, falsifiable hypothesis from your research question, that's a good research question.
+If you can not derive a testable, falsifiable hypothesis from your research question, that's not a research question.
 
 (falsifiable: a theory is falsifiable if it is contradicted by an observation that is logically possible)
 
