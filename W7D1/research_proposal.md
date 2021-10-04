@@ -31,3 +31,12 @@ title: How to write research proposals?
 
 ### Boarder Impact (Optional) 
 - From a macroscopic point of view, how would my research make the world a better/worse place?
+
+### Bibliography
+
+## Some tips
+- Consider start with (nested) bullet points and build on top of it.
+- Use formal language!
+- Consider:
+  - What makes your research novel and unique? 
+  - Can your peer in this field understand your proposal?
