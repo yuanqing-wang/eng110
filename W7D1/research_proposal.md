@@ -14,7 +14,7 @@ title: How to write research proposals?
 - **Provide a statement of your research question / hypothesis.**
 - If you're not doing a separate literature review, do it briefly here.
 
-### Literature Review
+### Literature Review (Optional)
 - Give recognition to other scholars in this field.
 - What has been studied? What is left to study?
 
@@ -24,5 +24,10 @@ title: How to write research proposals?
 - Describe the sources you would use
 - Describe the details of your methods
 
-### Agenda
-- When would what be done?
+### Agenda / Timeline
+- What are the milestones?
+- When would you hit those milestones?
+- (Optional) How would you spend your money?
+
+### Boarder Impact (Optional) 
+- From a macroscopic point of view, how would my research make the world a better/worse place?
