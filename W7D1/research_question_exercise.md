@@ -12,5 +12,6 @@ title: Are these good research questions? Why?
 6. How do we solve coffee breath?
 7. How many cups of espresso a day are most beneficial to human bodies?
 8. Does caffeine increase one's blood oxygen?
-9. How many cups of espresso a day would maximize one's blood oxgyen?
-10. How many cups of espresso a day would maximally extend one's life expectancy?
+9. What is the effect of caffeine on one's blood oxygen?
+10. How many cups of espresso a day would maximize one's blood oxgyen?
+11. How many cups of espresso a day would maximally extend one's life expectancy?
