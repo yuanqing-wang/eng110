@@ -48,6 +48,14 @@ The proposal should identify the specific, final research question that you dete
 ### Bibliography
 Identify key references. It might not need to be as thorough as that of your final paper.
 
+## Examples
+[my own research proposal](https://elasticbeanstalk-us-west-2-558336072681.s3.us-west-2.amazonaws.com/200221_yuanqing_molssi_proposal.pdf)
+
+https://oakland.edu/Assets/upload/docs/AIS/Syllabi/Tayler_Research_Proposal.pdf
+
+https://www.uh.edu/~lsong5/documents/A%20sample%20proposal%20with%20comment.pdf
+
+
 ## Some tips
 - Consider start with (nested) bullet points and build on top of it.
 - Use formal language!
