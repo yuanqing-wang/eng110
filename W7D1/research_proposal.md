@@ -2,6 +2,14 @@
 layout: post
 title: How to write research proposals?
 ---
+## Requirements
+See also [Essay2 Requirements](../W6D2/essay2.md).
+The proposal should identify the specific, final research question that you determine based on your initial exploration/research. Your proposal should discuss the same ideas as the topic reflection, but should be a more finely tuned presentation of the question your research will explore. You will need to include:
+
+- Your research question with some context. What is it about this question that interests you? Why is it relevant to social justice or social action?
+- A timeline; by what point will you have completed research for secondary sources?
+- A description of your audience and the name of a publication and a model essay (with a URL, if relevant) for which your essay might be appropriate.
+- A bibliography of the work you have so far completed.
 
 ## Components
 ### Abstract (Optional)
