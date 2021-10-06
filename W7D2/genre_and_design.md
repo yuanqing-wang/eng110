@@ -4,7 +4,7 @@ title: Genre and Design
 ---
 
 ## Genres: General Categories of Documents
-Recap: [Key Items](./W2D1/key_items.md)
+Recap: [Key Items](/W2D1/key_items.md)
 Examples:
 - Literary
     * Fiction
